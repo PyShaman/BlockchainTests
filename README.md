@@ -30,7 +30,7 @@ $ pip3 install -r requirements.txt
 ```
 
 This will automatically download and install following packages: 
-[requests](http://docs.python-requests.org/en/master/).
+[requests](http://docs.python-requests.org/en/master/) and [behave](https://github.com/behave/behave).
 
 After downloading and installing node.js and npm you need to:
 ```
