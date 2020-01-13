@@ -1,7 +1,5 @@
 # Blockchain Tests 
 _User guide_
-###### Author: Michał Bek
-###### Email: michal.bek@gmail.com
 
 
 **List of contents**
