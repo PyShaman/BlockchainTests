@@ -1,0 +1,6 @@
+1
+Drewno
+Ilość: 5 sztuk
+Cena netto: 395zł
+Vat: 5%
+Cena brutto: 414,75
